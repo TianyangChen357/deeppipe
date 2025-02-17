@@ -1,0 +1,15 @@
+name: deeppipe
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - geopandas
+  - rasterio
+  - shapely
+  - pandas
+  - fiona
+  - gdal
+  - pyproj
+  - numpy
+  - scikit-learn

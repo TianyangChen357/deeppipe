@@ -1,0 +1,9 @@
+./0_data
+*.csv
+*.dbf
+*.shp
+*.shx
+*.tif
+*.prj
+*.cpg
+*.xml
