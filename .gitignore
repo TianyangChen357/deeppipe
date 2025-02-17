@@ -7,3 +7,7 @@
 *.prj
 *.cpg
 *.xml
+*.sbx
+*.sbn
+all_data/Storm_Structures_subset.sbx
+*.zip
